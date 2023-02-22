@@ -27,6 +27,6 @@ if question == "w":
 else:
  print("file was not made")
 
-
+sleep(5)
 
 
