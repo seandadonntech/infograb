@@ -1,1 +1,6 @@
-
+os
+socket
+dns.reversename
+time
+netaddr
+colorama
